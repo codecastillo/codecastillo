@@ -1,6 +1,6 @@
 <!-- ─────────────── SYNTHWAVE HERO ─────────────── -->
 <a href="https://github.com/codecastillo">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,40:EC4899,100:F472B6&height=220&section=header&text=codecastillo&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%E2%9C%A6%20coding%20through%20the%20neon%20night%20%E2%9C%A6&descSize=18&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,40:EC4899,100:F472B6&height=200&section=header&text=codecastillo&fontSize=72&fontColor=ffffff&fontAlignY=52&animation=fadeIn" width="100%"/>
 </a>
 
 <div align="center">
@@ -18,8 +18,12 @@
 
 ```ts
 const dev = {
-  alias:      "codecastillo",
-  interests:  ["gaming", "hiking", "bowling", "reading"],
+  alias:        "codecastillo",
+  location:     "your city, state",
+  currently:    "building cool things on the web",
+  learning:     "new tools, new tricks",
+  interests:    ["gaming", "hiking", "baking", "reading"],
+  open_to:      ["collabs", "new opportunities"],
 };
 ```
 
@@ -44,10 +48,9 @@ const dev = {
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecastillo&theme=midnight-purple"/>
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codecastillo&theme=midnight-purple"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecastillo&theme=react-dark&bg_color=1A0B2E&color=F472B6&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Activity%20Graph" width="98%"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=codecastillo&hide_border=true&background=1A0B2E&stroke=EC4899&ring=8B5CF6&fire=F472B6&currStreakLabel=3B82F6&dates=F472B6&sideLabels=8B5CF6&currStreakNum=ffffff&sideNums=ffffff"/>
 
@@ -59,7 +62,7 @@ const dev = {
 
 <p>
   <a href="https://github.com/codecastillo"><img src="https://img.shields.io/badge/GITHUB-1A0B2E?style=for-the-badge&logo=github&logoColor=F472B6"/></a>
-  <a href="https://www.linkedin.com/in/dancsatle/"><img src="https://img.shields.io/badge/LINKEDIN-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
+  <a href="https://www.linkedin.com/in/dancsatle/"><img src="https://img.shields.io/badge/-LINKEDIN-1A0B2E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzNCODJGNiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1MiAzLjM3LTEuODUyIDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4OHpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2MyAyLjA2MyAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg=="/></a>
   <a href="mailto:dancastlebiz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A0B2E?style=for-the-badge&logo=protonmail&logoColor=EC4899"/></a>
 </p>
 

@@ -5,11 +5,6 @@
 
 <div align="center">
 
-<!-- typing tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&multiline=false&width=720&height=44&lines=cruising+the+digital+highway+%E2%9C%A6;dreaming+in+pink+%2B+purple+%2B+blue;building+the+future%2C+one+commit+at+a+time" alt="typing tagline" />
-
-<br/>
-
 <!-- vibe chips -->
 <img src="https://img.shields.io/badge/-%E2%9C%A6%20ONLINE-EC4899?style=for-the-badge&labelColor=1A0B2E"/>
 <img src="https://img.shields.io/badge/-SUNSET%5FMODE-8B5CF6?style=for-the-badge&labelColor=1A0B2E"/>
@@ -24,10 +19,7 @@
 ```ts
 const dev = {
   alias:      "codecastillo",
-  vibe:       "synthwave + sunset gradients",
-  stack:      ["typescript", "rust", "python", "good vibes"],
-  building:   "things that probably shouldn't exist (but should)",
-  fueled_by:  ["coffee", "80s synth", "late nights"],
+  interests:  ["gaming", "hiking", "bowling", "fishing", "camping", "coffee", "road trips"],
 };
 ```
 
@@ -37,7 +29,7 @@ const dev = {
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1A0B2E?style=for-the-badge&logo=typescript&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/Rust-1A0B2E?style=for-the-badge&logo=rust&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/CSS-1A0B2E?style=for-the-badge&logo=css3&logoColor=EC4899"/>
   <img src="https://img.shields.io/badge/Python-1A0B2E?style=for-the-badge&logo=python&logoColor=8B5CF6"/>
   <img src="https://img.shields.io/badge/Next.js-1A0B2E?style=for-the-badge&logo=nextdotjs&logoColor=F472B6"/>
   <img src="https://img.shields.io/badge/Tailwind-1A0B2E?style=for-the-badge&logo=tailwindcss&logoColor=3B82F6"/>
@@ -67,8 +59,7 @@ const dev = {
 
 <p>
   <a href="https://github.com/codecastillo"><img src="https://img.shields.io/badge/GITHUB-1A0B2E?style=for-the-badge&logo=github&logoColor=F472B6"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TWITTER-1A0B2E?style=for-the-badge&logo=x&logoColor=3B82F6"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/DISCORD-1A0B2E?style=for-the-badge&logo=discord&logoColor=8B5CF6"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-1A0B2E?style=for-the-badge&logo=linkedin&logoColor=3B82F6"/></a>
   <a href="mailto:dancastlebiz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A0B2E?style=for-the-badge&logo=protonmail&logoColor=EC4899"/></a>
 </p>
 

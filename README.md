@@ -1,85 +1,84 @@
-<div align="center">
-
-<!-- ─────────── ANIMATED HEADER ─────────── -->
+<!-- ─────────────── SYNTHWAVE HERO ─────────────── -->
 <a href="https://github.com/codecastillo">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2800&pause=900&color=FF006E&center=true&vCenter=true&width=720&height=80&lines=%3E+SYSTEM+BOOT...;%3E+USER%3A+codecastillo;%3E+STATUS%3A+JACKED+IN_;%3E+WELCOME+TO+THE+GRID." alt="typing header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,40:EC4899,100:F472B6&height=220&section=header&text=codecastillo&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%E2%9C%A6%20coding%20through%20the%20neon%20night%20%E2%9C%A6&descSize=18&descAlignY=62" width="100%"/>
 </a>
 
-<!-- neon divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%"/>
+<div align="center">
+
+<!-- typing tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=EC4899&center=true&vCenter=true&multiline=false&width=720&height=44&lines=cruising+the+digital+highway+%E2%9C%A6;dreaming+in+pink+%2B+purple+%2B+blue;building+the+future%2C+one+commit+at+a+time" alt="typing tagline" />
 
 <br/>
 
-<!-- profile chips -->
-<img src="https://img.shields.io/badge/-NEURAL%5FLINK%5FACTIVE-FF006E?style=for-the-badge&labelColor=000000&logo=hackthebox&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/-NIGHT%5FCITY-00F0FF?style=for-the-badge&labelColor=000000&logo=cyberdefenders&logoColor=FF006E"/>
-<img src="https://img.shields.io/badge/-2077-9D00FF?style=for-the-badge&labelColor=000000"/>
+<!-- vibe chips -->
+<img src="https://img.shields.io/badge/-%E2%9C%A6%20ONLINE-EC4899?style=for-the-badge&labelColor=1A0B2E"/>
+<img src="https://img.shields.io/badge/-SUNSET%5FMODE-8B5CF6?style=for-the-badge&labelColor=1A0B2E"/>
+<img src="https://img.shields.io/badge/-OUTRUN-3B82F6?style=for-the-badge&labelColor=1A0B2E"/>
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp; `// whoami`
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> &nbsp; `// whoami`
 
 ```ts
-const operator = {
-  alias:       "codecastillo",
-  location:    "somewhere off the grid",
-  stack:       ["typescript", "rust", "python", "the void"],
-  currently:   "building things that probably shouldn't exist",
-  status:      "online // do not disturb",
+const dev = {
+  alias:      "codecastillo",
+  vibe:       "synthwave + sunset gradients",
+  stack:      ["typescript", "rust", "python", "good vibes"],
+  building:   "things that probably shouldn't exist (but should)",
+  fueled_by:  ["coffee", "80s synth", "late nights"],
 };
 ```
 
 ---
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="26"/> &nbsp; `// arsenal`
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"/> &nbsp; `// stack`
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=FF006E"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=9D00FF"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=FF006E"/>
-  <img src="https://img.shields.io/badge/Postgres-000000?style=flat-square&logo=postgresql&logoColor=9D00FF"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00F0FF"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=FF006E"/>
+  <img src="https://img.shields.io/badge/TypeScript-1A0B2E?style=for-the-badge&logo=typescript&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/Rust-1A0B2E?style=for-the-badge&logo=rust&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/Python-1A0B2E?style=for-the-badge&logo=python&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/Next.js-1A0B2E?style=for-the-badge&logo=nextdotjs&logoColor=F472B6"/>
+  <img src="https://img.shields.io/badge/Tailwind-1A0B2E?style=for-the-badge&logo=tailwindcss&logoColor=3B82F6"/>
+  <img src="https://img.shields.io/badge/Postgres-1A0B2E?style=for-the-badge&logo=postgresql&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/Vercel-1A0B2E?style=for-the-badge&logo=vercel&logoColor=F472B6"/>
+  <img src="https://img.shields.io/badge/Docker-1A0B2E?style=for-the-badge&logo=docker&logoColor=3B82F6"/>
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="26"/> &nbsp; `// telemetry`
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="26"/> &nbsp; `// stats`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codecastillo&show_icons=true&theme=synthwave&hide_border=true&bg_color=000000&title_color=FF006E&icon_color=00F0FF&text_color=ffffff"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecastillo&layout=compact&theme=synthwave&hide_border=true&bg_color=000000&title_color=FF006E&text_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codecastillo&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=EC4899&icon_color=8B5CF6&text_color=F472B6&ring_color=3B82F6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecastillo&layout=compact&hide_border=true&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=codecastillo&theme=synthwave&hide_border=true&background=000000&stroke=FF006E&ring=00F0FF&fire=9D00FF&currStreakLabel=00F0FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=codecastillo&hide_border=true&background=1A0B2E&stroke=EC4899&ring=8B5CF6&fire=F472B6&currStreakLabel=3B82F6&dates=F472B6&sideLabels=8B5CF6&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHA/giphy.gif" width="26"/> &nbsp; `// transmissions`
+### <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHA/giphy.gif" width="26"/> &nbsp; `// connect`
 
 <p>
-  <a href="https://github.com/codecastillo"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F0FF"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/X%2FTWITTER-000000?style=for-the-badge&logo=x&logoColor=FF006E"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=9D00FF"/></a>
-  <a href="mailto:dancastlebiz@gmail.com"><img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=protonmail&logoColor=00F0FF"/></a>
+  <a href="https://github.com/codecastillo"><img src="https://img.shields.io/badge/GITHUB-1A0B2E?style=for-the-badge&logo=github&logoColor=F472B6"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TWITTER-1A0B2E?style=for-the-badge&logo=x&logoColor=3B82F6"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/DISCORD-1A0B2E?style=for-the-badge&logo=discord&logoColor=8B5CF6"/></a>
+  <a href="mailto:dancastlebiz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1A0B2E?style=for-the-badge&logo=protonmail&logoColor=EC4899"/></a>
 </p>
 
 ---
 
+<!-- footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:EC4899,100:8B5CF6&height=120&section=footer&text=%E2%9C%A6%20catch%20you%20on%20the%20other%20side%20%E2%9C%A6&fontSize=20&fontColor=ffffff&fontAlignY=72" width="100%"/>
+
 <div align="center">
 
-<sub><code>// END OF TRANSMISSION ▒▓█ wake up, samurai. we have a city to burn. █▓▒</code></sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=codecastillo&style=for-the-badge&color=FF006E&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=codecastillo&style=for-the-badge&color=EC4899&label=VISITORS"/>
 
 </div>

@@ -18,12 +18,12 @@
 
 ```ts
 const dev = {
-  alias:        "codecastillo",
-  location:     "your city, state",
-  currently:    "building cool things on the web",
-  learning:     "new tools, new tricks",
-  interests:    ["gaming", "hiking", "baking", "reading"],
-  open_to:      ["collabs", "new opportunities"],
+  alias:              "codecastillo",
+  next_trip:          "spain",
+  motto:              "skadooosh",
+  currently_playing:  "no mans sky",
+  interests:          ["gaming", "hiking", "baking", "reading"],
+  open_to:            ["internships", "new opportunities"],
 };
 ```
 

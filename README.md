@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- vibe chips -->
-<img src="https://img.shields.io/badge/-%E2%9C%A6%20AVAILABLE-EC4899?style=for-the-badge&labelColor=1A0B2E"/>
+<img src="https://img.shields.io/badge/-AVAILABLE-EC4899?style=for-the-badge&labelColor=1A0B2E"/>
 <img src="https://img.shields.io/badge/-BUILDING-8B5CF6?style=for-the-badge&labelColor=1A0B2E"/>
 <img src="https://img.shields.io/badge/-ALWAYS%20LEARNING-3B82F6?style=for-the-badge&labelColor=1A0B2E"/>
 

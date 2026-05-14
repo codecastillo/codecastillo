@@ -23,7 +23,7 @@ const dev = {
   motto:              "skadooosh",
   currently_playing:  "no mans sky",
   interests:          ["gaming", "hiking", "baking", "reading"],
-  open_to:            ["internships", "new opportunities"],
+  open_to:            ["new opportunities"],
 };
 ```
 

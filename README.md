@@ -33,7 +33,7 @@ const dev = {
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1A0B2E?style=for-the-badge&logo=typescript&logoColor=3B82F6"/>
-  <img src="https://img.shields.io/badge/CSS-1A0B2E?style=for-the-badge&logo=css3&logoColor=EC4899"/>
+  <img src="https://img.shields.io/badge/CSS-1A0B2E?style=for-the-badge&logo=css&logoColor=EC4899"/>
   <img src="https://img.shields.io/badge/Python-1A0B2E?style=for-the-badge&logo=python&logoColor=8B5CF6"/>
   <img src="https://img.shields.io/badge/Next.js-1A0B2E?style=for-the-badge&logo=nextdotjs&logoColor=F472B6"/>
   <img src="https://img.shields.io/badge/Tailwind-1A0B2E?style=for-the-badge&logo=tailwindcss&logoColor=3B82F6"/>
@@ -48,13 +48,24 @@ const dev = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codecastillo&theme=react-dark&bg_color=1A0B2E&color=F472B6&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=Activity%20Graph" width="98%"/>
+<img src="https://raw.githubusercontent.com/codecastillo/codecastillo/output/snake-synthwave.svg" width="98%" alt="snake eating contributions"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=codecastillo&hide_border=true&background=1A0B2E&stroke=EC4899&ring=8B5CF6&fire=F472B6&currStreakLabel=3B82F6&dates=F472B6&sideLabels=8B5CF6&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
+
+---
+
+### <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="26"/> &nbsp; `// joke`
+
+```ts
+const joke = {
+  setup:     "a new database query walks into a bar.",
+  punchline: 'the server says "sorry, cache only."',
+};
+```
 
 ---
 

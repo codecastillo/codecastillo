@@ -21,7 +21,7 @@ jobs:
           github_user_name: codecastillo
           outputs: |
             dist/snake.svg
-            dist/snake-synthwave.svg?color_snake=%23EC4899&color_dots=%231A0B2E,%238B5CF6,%23F472B6,%23EC4899,%23ffffff
+            dist/snake-synthwave.svg?color_snake=%23EC4899&color_dots=%231A0B2E,%238B5CF6,%23F472B6,%23EC4899,%2300F0FF
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

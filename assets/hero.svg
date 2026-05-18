@@ -32,7 +32,7 @@
   <circle cx="44" cy="20" r="6" fill="#F472B6"/>
   <circle cx="66" cy="20" r="6" fill="#8B5CF6"/>
 
-  <text x="450" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#8B5CF6">~ daniel.castillo — zsh</text>
+  <text x="450" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#8B5CF6">~ codecastillo — zsh</text>
 
   <g clip-path="url(#typeMaskComment)">
     <text x="40" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" fill="#5D4D7A">// software engineer · full-stack</text>

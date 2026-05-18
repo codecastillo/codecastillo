@@ -15,8 +15,7 @@ const developer = {
   name:       "Daniel Castillo",
   role:       "Software Engineer",
   languages:  ["English", "Spanish", "Italian"],
-  focus:      ["full-stack web", "AI tooling", "backend APIs"],
-  building:   "construction material calculator",
+  focus:      ["Full-Stack Web", "AI Tooling", "Backend APIs"],
   open_to:    "new opportunities",
 };
 ```

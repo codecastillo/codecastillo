@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="daniel castillo — software engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A0B2E"/>
+      <stop offset="100%" stop-color="#2D1B4E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="900" height="260" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="40" fill="#0F0820"/>
+  <rect x="0" y="36" width="900" height="2" fill="url(#accent)" opacity="0.6"/>
+  <circle cx="22" cy="20" r="6" fill="#EC4899"/>
+  <circle cx="44" cy="20" r="6" fill="#F472B6"/>
+  <circle cx="66" cy="20" r="6" fill="#8B5CF6"/>
+  <text x="450" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#8B5CF6">~ daniel.castillo — zsh</text>
+  <text x="40" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" fill="#5D4D7A">// software engineer · full-stack · always shipping</text>
+  <text x="40" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">
+    <tspan fill="#F472B6">const</tspan>
+    <tspan fill="#FFFFFF" dx="10">status</tspan>
+    <tspan fill="#8B5CF6" dx="10">=</tspan>
+    <tspan fill="#EC4899" dx="10">"building &amp; learning"</tspan>
+    <tspan fill="#8B5CF6">;</tspan>
+  </text>
+  <text x="40" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20">
+    <tspan fill="#EC4899">❯</tspan>
+    <tspan fill="#F472B6" dx="15">_</tspan>
+  </text>
+</svg>

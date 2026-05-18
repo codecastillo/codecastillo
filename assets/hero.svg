@@ -9,24 +9,53 @@
       <stop offset="50%" stop-color="#EC4899"/>
       <stop offset="100%" stop-color="#F472B6"/>
     </linearGradient>
+    <clipPath id="typeMaskComment">
+      <rect x="40" y="80" width="0" height="32">
+        <animate attributeName="width" from="0" to="520" begin="0.4s" dur="2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="typeMaskCode">
+      <rect x="40" y="125" width="0" height="36">
+        <animate attributeName="width" from="0" to="500" begin="2.6s" dur="1.6s" fill="freeze"/>
+      </rect>
+    </clipPath>
   </defs>
+
   <rect x="0" y="0" width="900" height="260" rx="14" fill="url(#bg)"/>
+
   <rect x="0" y="0" width="900" height="40" fill="#0F0820"/>
-  <rect x="0" y="36" width="900" height="2" fill="url(#accent)" opacity="0.6"/>
+  <rect x="0" y="36" width="900" height="2" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+
   <circle cx="22" cy="20" r="6" fill="#EC4899"/>
   <circle cx="44" cy="20" r="6" fill="#F472B6"/>
   <circle cx="66" cy="20" r="6" fill="#8B5CF6"/>
+
   <text x="450" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" fill="#8B5CF6">~ daniel.castillo — zsh</text>
-  <text x="40" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" fill="#5D4D7A">// software engineer · full-stack · always shipping</text>
-  <text x="40" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">
-    <tspan fill="#F472B6">const</tspan>
-    <tspan fill="#FFFFFF" dx="10">status</tspan>
-    <tspan fill="#8B5CF6" dx="10">=</tspan>
-    <tspan fill="#EC4899" dx="10">"building &amp; learning"</tspan>
-    <tspan fill="#8B5CF6">;</tspan>
+
+  <g clip-path="url(#typeMaskComment)">
+    <text x="40" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" fill="#5D4D7A">// software engineer · full-stack</text>
+  </g>
+
+  <g clip-path="url(#typeMaskCode)">
+    <text x="40" y="150" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">
+      <tspan fill="#F472B6">const</tspan>
+      <tspan fill="#FFFFFF" dx="10">status</tspan>
+      <tspan fill="#8B5CF6" dx="10">=</tspan>
+      <tspan fill="#EC4899" dx="10">"building &amp; learning"</tspan>
+      <tspan fill="#8B5CF6">;</tspan>
+    </text>
+  </g>
+
+  <text x="40" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" fill="#EC4899" opacity="0">
+    ❯
+    <animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.3s" fill="freeze"/>
   </text>
-  <text x="40" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20">
-    <tspan fill="#EC4899">❯</tspan>
-    <tspan fill="#F472B6" dx="15">_</tspan>
-  </text>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="4.4s" dur="0.3s" fill="freeze"/>
+    <text x="65" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" fill="#F472B6">_
+      <animate attributeName="opacity" values="1;0;1" begin="4.7s" dur="1.1s" repeatCount="indefinite"/>
+    </text>
+  </g>
 </svg>

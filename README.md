@@ -55,17 +55,37 @@ const developer = {
 
 ### ❯&nbsp; projects
 
-<p align="center">
-  <a href="https://github.com/codecastillo/ai-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecastillo&repo=ai-tools&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6&icon_color=8B5CF6&border_color=8B5CF6" alt="ai-tools"/>
-  </a>
-  <a href="https://github.com/codecastillo/social-network-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecastillo&repo=social-network-v2&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6&icon_color=8B5CF6&border_color=8B5CF6" alt="social-network-v2"/>
-  </a>
-  <a href="https://github.com/codecastillo/material-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codecastillo&repo=material-calculator&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6&icon_color=8B5CF6&border_color=8B5CF6" alt="material-calculator"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### <a href="https://github.com/codecastillo/ai-tools">📡&nbsp; ai-tools</a>
+
+Reference site for AI dev tooling — install guides, usage tips, curated stacks.
+
+<sub>`TypeScript` · `Next.js`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### <a href="https://github.com/codecastillo/social-network-v2">🌐&nbsp; social-network-v2</a>
+
+Full-featured social media platform built with Next.js and Supabase.
+
+<sub>`TypeScript` · `Next.js` · `Supabase`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### <a href="https://github.com/codecastillo/material-calculator">🏗&nbsp; material-calculator</a>
+
+Software for construction companies to calculate materials based on the square footage of jobs.
+
+<sub>`JavaScript` · `Node` · `Postgres`</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,12 +96,12 @@ const developer = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecastillo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6&icon_color=8B5CF6&ring_color=8B5CF6" height="180" alt="github stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codecastillo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6&icon_color=8B5CF6&ring_color=8B5CF6" height="180" alt="github stats"/>
   <img src="https://streak-stats.demolab.com?user=codecastillo&hide_border=true&background=1A0B2E&stroke=EC4899&ring=8B5CF6&fire=F472B6&currStreakLabel=3B82F6&dates=F472B6&sideLabels=8B5CF6&currStreakNum=ffffff&sideNums=ffffff" height="180" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecastillo&layout=compact&hide_border=true&langs_count=8&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6" height="170" alt="top languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=codecastillo&layout=compact&hide_border=true&langs_count=8&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6" height="170" alt="top languages"/>
 </p>
 
 ---

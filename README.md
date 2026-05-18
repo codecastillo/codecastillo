@@ -8,6 +8,8 @@
 
 ### ❯&nbsp; whoami
 
+</div>
+
 ```ts
 const developer = {
   name:       "Daniel Castillo",
@@ -18,8 +20,6 @@ const developer = {
   open_to:    "new opportunities",
 };
 ```
-
-</div>
 
 ---
 

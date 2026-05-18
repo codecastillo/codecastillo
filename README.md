@@ -57,7 +57,7 @@ const developer = {
 <tr>
 <td width="33%" valign="top">
 
-#### <a href="https://github.com/codecastillo/ai-tools">📡&nbsp; ai-tools</a>
+#### <a href="https://github.com/codecastillo/ai-tools">ai-tools</a>
 
 Reference site for AI dev tooling — install guides, usage tips, curated stacks.
 
@@ -66,7 +66,7 @@ Reference site for AI dev tooling — install guides, usage tips, curated stacks
 </td>
 <td width="33%" valign="top">
 
-#### <a href="https://github.com/codecastillo/social-network-v2">🌐&nbsp; social-network-v2</a>
+#### <a href="https://github.com/codecastillo/social-network-v2">social-network-v2</a>
 
 Full-featured social media platform built with Next.js and Supabase.
 
@@ -75,7 +75,7 @@ Full-featured social media platform built with Next.js and Supabase.
 </td>
 <td width="33%" valign="top">
 
-#### <a href="https://github.com/codecastillo/material-calculator">🏗&nbsp; material-calculator</a>
+#### <a href="https://github.com/codecastillo/material-calculator">material-calculator</a>
 
 Software for construction companies to calculate materials based on the square footage of jobs.
 

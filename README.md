@@ -55,7 +55,7 @@ const developer = {
 
 <table align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 #### <a href="https://github.com/codecastillo/ai-tools">ai-tools</a>
 
@@ -64,7 +64,7 @@ Reference site for AI dev tooling — install guides, usage tips, curated stacks
 <sub>`TypeScript` · `Next.js`</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 #### <a href="https://github.com/codecastillo/social-network-v2">social-network-v2</a>
 
@@ -73,7 +73,7 @@ Full-featured social media platform built with Next.js and Supabase.
 <sub>`TypeScript` · `Next.js` · `Supabase`</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 #### <a href="https://github.com/codecastillo/material-calculator">material-calculator</a>
 

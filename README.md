@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg?v=2" alt="daniel castillo — software engineer" width="100%"/>
+  <img src="assets/hero.svg?v=3" alt="daniel castillo, software engineer" width="100%"/>
 </p>
 
 ---
@@ -15,7 +15,7 @@ const developer = {
   name:       "Daniel Castillo",
   role:       "Software Engineer",
   languages:  ["English", "Spanish", "Italian"],
-  focus:      ["Full-Stack Web", "AI Tooling", "Backend APIs"],
+  focus:      ["Full-Stack Web", "AI Tooling", "Databases"],
   open_to:    "new opportunities",
 };
 ```
@@ -40,7 +40,7 @@ const developer = {
 
 *tools*
 
-<img src="https://img.shields.io/badge/Postgres-1A0B2E?style=for-the-badge&logo=postgresql&logoColor=8B5CF6" alt="postgres"/>
+<img src="https://img.shields.io/badge/Railway-1A0B2E?style=for-the-badge&logo=railway&logoColor=8B5CF6" alt="railway"/>
 <img src="https://img.shields.io/badge/Supabase-1A0B2E?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="supabase"/>
 <img src="https://img.shields.io/badge/Vercel-1A0B2E?style=for-the-badge&logo=vercel&logoColor=F472B6" alt="vercel"/>
 <img src="https://img.shields.io/badge/Git-1A0B2E?style=for-the-badge&logo=git&logoColor=EC4899" alt="git"/>
@@ -59,7 +59,7 @@ const developer = {
 
 #### <a href="https://github.com/codecastillo/ai-tools">ai-tools</a>
 
-Reference site for AI dev tooling — install guides, usage tips, curated stacks.
+Reference site for AI dev tooling: install guides, usage tips, curated stacks.
 
 <sub>`TypeScript` · `Next.js`</sub>
 

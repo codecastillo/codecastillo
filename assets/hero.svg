@@ -16,7 +16,7 @@
     </clipPath>
     <clipPath id="typeMaskCode">
       <rect x="40" y="125" width="0" height="36">
-        <animate attributeName="width" from="0" to="500" begin="2.6s" dur="1.6s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="545" begin="2.6s" dur="1.6s" fill="freeze"/>
       </rect>
     </clipPath>
   </defs>
@@ -43,7 +43,7 @@
       <tspan fill="#F472B6">const</tspan>
       <tspan fill="#FFFFFF" dx="10">status</tspan>
       <tspan fill="#8B5CF6" dx="10">=</tspan>
-      <tspan fill="#EC4899" dx="10">"building &amp; learning"</tspan>
+      <tspan fill="#EC4899" dx="10">"shipping side projects"</tspan>
       <tspan fill="#8B5CF6">;</tspan>
     </text>
   </g>

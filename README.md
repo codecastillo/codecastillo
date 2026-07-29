@@ -1,5 +1,17 @@
 <div align="center">
 
+### ❯&nbsp; whoami
+
+I'm Daniel Castillo, 24, a software engineering student.
+
+I speak English, Spanish, and Italian.
+
+</div>
+
+---
+
+<div align="center">
+
 ### ❯&nbsp; stack
 
 *languages*
@@ -63,16 +75,7 @@ Software for construction companies to calculate materials based on the square f
 
 <img src="https://raw.githubusercontent.com/codecastillo/codecastillo/output/snake-synthwave.svg" alt="contribution snake" width="100%"/>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codecastillo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6&icon_color=8B5CF6&ring_color=8B5CF6" width="100%" alt="github stats"/>
-</td>
-<td width="50%">
-  <img src="https://streak-stats.demolab.com?user=codecastillo&hide_border=true&background=1A0B2E&stroke=EC4899&ring=8B5CF6&fire=F472B6&currStreakLabel=3B82F6&dates=F472B6&sideLabels=8B5CF6&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="streak"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=codecastillo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A0B2E&title_color=EC4899&text_color=F472B6&icon_color=8B5CF6&ring_color=8B5CF6" width="60%" alt="github stats"/>
 
 </div>
 

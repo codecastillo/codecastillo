@@ -1,42 +1,10 @@
-<p align="center">
-  <img src="assets/hero.svg?v=3" alt="daniel castillo, software engineer" width="100%"/>
-</p>
-
----
-
-<div align="center">
-
-### ❯&nbsp; whoami
-
-</div>
-
-```ts
-const developer = {
-  name:       "Daniel Castillo",
-  role:       "Software Engineer",
-  languages:  ["English", "Spanish", "Italian"],
-  focus:      ["Full-Stack Web", "AI Tooling", "Databases"],
-  open_to:    "new opportunities",
-};
-```
-
----
-
 <div align="center">
 
 ### ❯&nbsp; stack
 
 *languages*
 
-<img src="https://img.shields.io/badge/TypeScript-1A0B2E?style=for-the-badge&logo=typescript&logoColor=3B82F6" alt="typescript"/>
 <img src="https://img.shields.io/badge/Python-1A0B2E?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="python"/>
-<img src="https://img.shields.io/badge/JavaScript-1A0B2E?style=for-the-badge&logo=javascript&logoColor=F472B6" alt="javascript"/>
-
-*frameworks*
-
-<img src="https://img.shields.io/badge/Next.js-1A0B2E?style=for-the-badge&logo=nextdotjs&logoColor=F472B6" alt="nextjs"/>
-<img src="https://img.shields.io/badge/React-1A0B2E?style=for-the-badge&logo=react&logoColor=3B82F6" alt="react"/>
-<img src="https://img.shields.io/badge/Tailwind-1A0B2E?style=for-the-badge&logo=tailwindcss&logoColor=3B82F6" alt="tailwind"/>
 
 *tools*
 

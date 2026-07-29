@@ -2,9 +2,19 @@
 
 ### ❯&nbsp; whoami
 
-I'm Daniel Castillo, 24, a software engineering student.
+I'm Daniel Castillo, 24, a software engineering student in Utah (MST).
+
+I build full-stack web apps and the data plumbing underneath them. Right now I'm
+building **PermitMiner**, a Utah building-permit intelligence tool: it ingests permit
+and pre-permit records from county and state open-data sources, matches the people
+behind each project against licensing and parcel data to get current contact info,
+and ships the result as county and project-type lead reports. The interesting problems
+there are ingestion reliability, matching records across sources that disagree, and
+keeping provenance on every piece of data.
 
 I speak English, Spanish, and Italian.
+
+Open to internships and junior engineering roles.
 
 </div>
 
